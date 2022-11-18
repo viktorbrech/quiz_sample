@@ -1,0 +1,11 @@
+{
+  "runtime": "nodejs12.x",
+  "version": "1.0",
+  "endpoints": {
+    "meow": {
+      "method": "GET",
+      "file": "get_meowfact.js"
+    }
+  },
+  "appFunctions": {}
+}

@@ -1,0 +1,6 @@
+{
+  "name": "get_meow_fact_app",
+  "description": "Private app to get meow facts",
+  "scopes": ["crm.objects.contacts.read"],
+  "public": false
+}
